@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+
+<style>
+    
+    </style>
+    
+</head>
+
+ 
+<body style="background-color: cadetblue;display: flex;justify-content: center;align-content: center;">
+
+
+  <div style="width: 500px;height: 500px;background-color: beige;margin: auto">
+    <div style="width: 400px;height: 400px;background-color: floralwhite;margin: auto;margin-top: 35px" id="mmap"></div>
+      <button class="btn mt-3 btn-info form-control" onclick="maps()">Get Current Location</button>
+    </div>
+    
+    
+    <script>
+    
+    let x=document.getElementById("mmap");
+        
+        const maps=()=>{
+            if(navigator.geolocation){
+                navigator.geolocation.getCurrentPosition(showPosition)
+                
+            }
+            else{
+                   
+   
+    x.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+        
+        const showPosition=(position)=>{
+            
+            x.innerHTML="Latitude"+ position.coords.latitude +"<br>"+ "Longitude "+position.coords.longitude + position.coords.speed;
+            
+        }
+    
+    
+    </script>
+   
+</body>
+
+</html>
