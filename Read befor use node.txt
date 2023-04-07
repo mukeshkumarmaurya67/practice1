@@ -1,0 +1,11 @@
+1 npm install -g nodemon
+2 npm install express --save
+3 npm install body-parser --save
+4 npm install cookie-parser --save
+5 npm install multer --save
+6 npm install mysql --save
+----------------------------------------
+
+  Search in google
+
+  xampp download it and install it in your computer
