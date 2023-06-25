@@ -1,0 +1,117 @@
+{
+  "usersdetail": [
+    {
+      "name": "Satyapriya Mishra",
+      "image": "https://media.istockphoto.com/id/1391718981/photo/portrait-of-a-confident-young-businessman-standing-with-his-arms-crossed-in-an-office.jpg?b=1&s=170667a&w=0&k=20&c=N8WxUng80PkPIxTSFGjN69BMUZIe9TuxFzrvRc7kOI8=",
+      "pan": "STPR7689S",
+      "email": "satyapriyamishra14@gmail.com",
+      "adhaar": "688654354682",
+      "detail": "Burgundy Customer",
+      "contact": "7738898065",
+      "id": 2
+    },
+    {
+      "name": " David Burner",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/130/590x/modern-gentleman-qualities-traits-manners-respectful-kind-polite-841392.jpg",
+      "pan": " DVBR6962D",
+      "email": "davidburneryara@gmail.com",
+      "adhaar": "56656759867",
+      "detail": " Prime Customer",
+      "contact": "3378291873",
+      "id": 3
+    },
+    {
+      "name": "Devid  Brian ",
+      "image": "https://images.pexels.com/photos/1093926/pexels-photo-1093926.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "pan": " DBBD7868D",
+      "email": "devidbran@gmail.com",
+      "adhaar": "86756786978",
+      "detail": " Premium Customer",
+      "contact": "3784536778",
+      "id": 4
+    },
+    {
+      "name": "Delete 3",
+      "image": "https://img.freepik.com/free-photo/waist-up-shot-tender-feminine-gentle-woman-with-curly-hairstyle-combed-right-side-tilting-head-smiling-flirty-making-romantic-gazed-camera-hugging-herself-yellow-background_1258-81987.jpg?w=2000",
+      "pan": "bhahfj676m",
+      "email": "afbabjabbk@gmail.com",
+      "adhaar": "423663922971",
+      "detail": "kjdfjafbkef",
+      "contact": "8676568767",
+      "id": 7
+    },
+    {
+      "name": "Delete-4",
+      "image": "https://i.pinimg.com/736x/05/f0/78/05f07871ed2ac762c2ae27ca871279b7.jpg",
+      "pan": "72462kjbdfjb878",
+      "email": "kjabbabk@gmail.com",
+      "adhaar": "65461664121",
+      "detail": "jahbfbjabfb",
+      "contact": "236652",
+      "id": 8
+    },
+    {
+      "name": "Sara Decrooz",
+      "image": "https://thumbs.dreamstime.com/b/young-beautiful-business-woman-laptop-office-portrait-88508937.jpg",
+      "pan": "SDDS8532S",
+      "email": "saradejjfb@gmail.com",
+      "adhaar": "6767656756",
+      "detail": "Loyal Customer",
+      "contact": "874275692",
+      "id": 9
+    },
+    {
+      "name": "Adelita",
+      "image": "https://static-bebeautiful-in.unileverservices.com/office-makeup-essentials-for-working-women_mobilehome.jpg",
+      "pan": "ADAM7326A",
+      "email": "adelitademora@orkoot.com",
+      "adhaar": "5675757586767",
+      "detail": "Burgyndy Customer",
+      "contact": "4756275672",
+      "id": 10
+    },
+    {
+      "name": "Altagracia",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-business-woman-talking-smartphone-working-laptop-writing-notebook-home-office-girl-spreads-her-arms-beautiful-girl-computer-desk-home_629665-308.jpg?w=2000",
+      "pan": "ALDL7343M",
+      "email": "altagracia@yahoo.com",
+      "adhaar": "8565675765678",
+      "detail": "Prestige Customer",
+      "contact": "7456257259",
+      "id": 11
+    },
+    {
+      "name": "Mukesh Kumar",
+      "image": "https://everydaypower.com/wp-content/uploads/2020/04/50-Classy-Gentleman-Quotes-to-Help-You-Earn-Respect.jpg",
+      "pan": " BXWM1984K",
+      "email": "mukeshkumarmaurya70@gmail.com",
+      "adhaar": "824576896709",
+      "detail": " Premium customer",
+      "contact": "7019138442",
+      "age": "29",
+      "id": 12
+    },
+    {
+      "name": "\tDavid Burner",
+      "age": "45",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/130/590x/modern-gentleman-qualities-traits-manners-respectful-kind-polite-841392.jpg",
+      "pan": " DVBR6962D",
+      "email": "davidburneryara@gmail.com",
+      "adhaar": "56656759867",
+      "detail": " Prime Customer",
+      "contact": "3378291873",
+      "id": 13
+    },
+    {
+      "name": "Devid Brian",
+      "age": "36",
+      "image": "https://images.pexels.com/photos/1093926/pexels-photo-1093926.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "pan": " DBBD7868D",
+      "email": "devidbran@gmail.com",
+      "adhaar": "86756786978",
+      "detail": " Premium Customer",
+      "contact": "3784536778",
+      "id": 14
+    }
+  ]
+}
