@@ -96,13 +96,16 @@ const Videoplayer = () => {
     };
 
 let vplps=()=>{
-    let x = document.getElementById("video-tg");
-    if(x.play== false){
-      alert("hi")
+    
+    if(x.play()==true){
+      pauseNow();
+ 
     }
-  else{
-    alert("no")
-  }
+    else{
+      
+      
+    }
+
 }
 
     return (

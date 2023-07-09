@@ -1,3 +1,4 @@
+import Imageslider from "./Imageslider";
 import Mynav from "./mynav";
 
 import React, { useState, useEffect } from 'react';
@@ -136,10 +137,10 @@ const Myprofile = () => {
             </div>
 
 
+<hr />
 
 
-
-
+<Imageslider />
 
 
 

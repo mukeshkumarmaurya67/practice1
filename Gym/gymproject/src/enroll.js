@@ -25,9 +25,10 @@ const EnrollNow = () => {
     return (
         <>
             <section>
-                <div className="container">
-                    <h2 className="text-center text-warning main-title-h2" id="textshadow1"><span className="text-dark">OUR </span>PLAN</h2>
-                    <h6 className="text-center">Choose Your Pricing Plan</h6>
+                <div className="container py-50">
+                    <h2 className="text-center text-warning com-title" id="textshadow1">
+                        <span className="text-dark">OUR </span>PLAN</h2>
+                    <h5 className="text-center mb-3">Choose Your Pricing Plan</h5>
                     <div className="row">
                         <div className="col-lg-4 col-md-4 col-sm-12">
                             <div className="enroll-cols">
@@ -71,11 +72,11 @@ const EnrollNow = () => {
 
 
 
-                <Modal show={show} centered size="auto">
+                <Modal show={show} centered size="auto" >
                     <Modal.Header onClick={mhide} closeButton>
                         <Modal.Title>Subcription Plans....</Modal.Title>
                     </Modal.Header>
-                    <Modal.Body>
+                    <Modal.Body className="p-3">
                         <form>
 
 
